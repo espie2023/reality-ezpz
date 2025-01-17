@@ -39,11 +39,11 @@ WIDTH=60
 CHOICE_HEIGHT=20
 
 image[xray]="teddysun/xray:latest"
-image[sing-box]="gzxhwq/sing-box:1.8.14"
-image[nginx]="nginx:1.24.0"
-image[certbot]="certbot/certbot:v2.6.0"
-image[haproxy]="haproxy:2.8.0"
-image[python]="python:3.11-alpine"
+image[sing-box]="gzxhwq/sing-box:latest"
+image[nginx]="nginx:1.27.3"
+image[certbot]="certbot/certbot:v3.1.0"
+image[haproxy]="haproxy:3.1.2"
+image[python]="python:3.13.1-alpine"
 image[wgcf]="virb3/wgcf:2.2.18"
 
 defaults[transport]=tcp
