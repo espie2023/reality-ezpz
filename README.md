@@ -1,3 +1,5 @@
+(Docker image updated and tested on Debian 13)
+
 # reality-ezpz
 Install and configure vless with reality or TLS on your linux server by executing a single command!
 
