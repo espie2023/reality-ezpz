@@ -40,7 +40,7 @@ CHOICE_HEIGHT=20
 
 image[xray]="teddysun/xray:25.10.15"
 image[sing-box]="gzxhwq/sing-box:1.12.12"
-image[nginx]="nginx:1.92.3"
+image[nginx]="nginx:1.29.3"
 image[certbot]="certbot/certbot:v5.1.0"
 image[haproxy]="haproxy:3.2.9"
 image[python]="python:3.11.14"
